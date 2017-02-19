@@ -1,0 +1,9 @@
+{
+  "generator-react-redux": {
+    "promptValues": {
+      "name": "AnotherOne"
+    },
+    "appname": "app",
+    "appName": "app"
+  }
+}
