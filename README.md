@@ -1,4 +1,6 @@
-WORK IN PROGRESS
+WORK IN PROGRESS...
+
+An old generator that I've been experimenting with since 2016. Recently implemented Redux.
 
 Todos:
 1. Decouple action/reducer generator
